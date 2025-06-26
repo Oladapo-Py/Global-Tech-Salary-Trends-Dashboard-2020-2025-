@@ -58,6 +58,6 @@ This project is for **educational and exploratory purposes** only. The dataset u
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn - ([https://linkedin.com/in/yourprofile](http://www.linkedin.com/in/oladapo-lijadu))   
+- 💼 LinkedIn - http://www.linkedin.com/in/oladapo-lijadu   
 - 📧 Email - lijaduoladapobayilori@gmail.com 
 - 🐦 Twitter - DapoPy1
